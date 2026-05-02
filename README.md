@@ -43,7 +43,7 @@ graph TB
         LOGGER["logger.js<br/>Centralized Log()"]
     end
 
-    subgraph EXT["☁️ Afford Medical Evaluation API<br/>(External)"]
+    subgraph EXT["☁️  API<br/>(External)"]
         API_DEPOTS["/depots"]
         API_VEHICLES["/vehicles"]
         API_NOTIFS["/notifications"]
