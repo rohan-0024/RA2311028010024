@@ -1,6 +1,6 @@
 
 
-A modular, microservice-style backend system built with **Node.js** and **Express**, consisting of three integrated services: a centralized **Logging Middleware**, a **Vehicle Maintenance Scheduler** (using a 0/1 Knapsack algorithm), and a **Notification Priority Inbox** (using exponential-decay scoring). All services communicate with the **Afford Medical Evaluation API** for data and log persistence.
+A modular, microservice-style backend system built with **Node.js** and **Express**, consisting of three integrated services: a centralized **Logging Middleware**, a **Vehicle Maintenance Scheduler** (using a 0/1 Knapsack algorithm), and a **Notification Priority Inbox** (using exponential-decay scoring). All services communicate with the **Medical Evaluation API** for data and log persistence.
 
 ---
 
